@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90298237-2d92-4a92-8138-a65d8d7c24b4</dc:identifier>
+        <dc:title>E-content on Engineering Drawing</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Jannatul, Mahmuda,Rehnuma,Albina,Hasin, Mehedi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jannatul, Mahmuda,Rehnuma,Albina,Hasin, Mehedi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-04T07:30:22.904000+00:00" name="calibre:timestamp"/>
+        <meta content="multimedia lab2(revised)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="multimedia lab2(revised) - Jannatul, Mahmuda,Rehnuma,Albina,Hasin, Mehedi.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
